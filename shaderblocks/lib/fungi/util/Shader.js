@@ -1,5 +1,5 @@
 import gl,{ UNI_MODEL_MAT_NAME,UNI_NORM_MAT_NAME } from "../gl.js";
-import fungi from "../fungi.js";
+import fungi from "../Fungi.js";
 
 
 //------------------------------------------------------
